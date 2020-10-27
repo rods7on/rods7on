@@ -3,6 +3,9 @@
 My name is Richard Rodston R Soares, a Brazilian living in Portugal. 
 Passionate about technology, software testing and games.
 
+[![Linkedin: richardrodstonrsoares](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-rodston-r-soares-016511176/)]
+
+
 
 - 👨‍🎓 Master's student in computer engineering, with a degree in Information Security Technology Management and Specialization in Agile Tests.
 
