@@ -7,7 +7,7 @@ Passionate about technology, software testing and games.
 
 
 
-- 👨‍🎓 Master's student in computer engineering, with a degree in Information Security Technology Management and Specialization in Agile Tests.
+- 👨‍🎓 Master's student in computer engineering at <a href="http://www.estg.ipp.pt/">ESTG - Politécnico do Porto</a>
 
 <!--
 **rods7on/rods7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
