@@ -3,8 +3,9 @@
 My name is Richard Rodston R Soares, a Brazilian living in Portugal. 
 Passionate about technology, software testing and games.
 
-![Linkedin: richardrodstonrsoares](https://img.shields.io/badge/-RichardSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richard-rodston-r-soares-016511176/)
 
+<a target="_blank" href="https://www.linkedin.com/in/richard-rodston-r-soares-016511176/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@richard.rodston"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 
 
 - 👨‍🎓 Master's student in computer engineering at <a href="http://www.estg.ipp.pt/">ESTG - Politécnico do Porto</a>
