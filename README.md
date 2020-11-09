@@ -8,7 +8,9 @@ Passionate about technology, software testing and games.
 <a target="_blank" href="https://medium.com/@richard.rodston"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 
 
-- 👨‍🎓 Master's student in computer engineering at <a href="http://www.estg.ipp.pt/">ESTG - Politécnico do Porto</a>
+- 👨‍🎓 Mestrando em Engenharia Informática na <a href="http://www.estg.ipp.pt/">ESTG - Politécnico do Porto</a>
+- 👨‍🎓 Especialização em Testes Ágeis na <a href="https://www.cesar.school">CESAR School</a>
+- 👨‍🎓 Graduação tecnóloga em Segurança da Informação na <a href="https://unifg.edu.br/">UNIFG</a>
 
 <!--
 **rods7on/rods7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
