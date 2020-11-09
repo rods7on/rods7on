@@ -10,7 +10,7 @@ Passionate about technology, software testing and games.
 
 - 👨‍🎓 Mestrando em Engenharia Informática na <a href="http://www.estg.ipp.pt/">ESTG - Politécnico do Porto</a>
 - 👨‍🎓 Especialização em Testes Ágeis na <a href="https://www.cesar.school">CESAR School</a>
-- 👨‍🎓 Graduação tecnóloga em Segurança da Informação na <a href="https://unifg.edu.br/">UNIFG</a>
+- 👨‍🎓 Graduação Tecnóloga em Segurança da Informação na <a href="https://unifg.edu.br/">UNIFG</a>
 
 <!--
 **rods7on/rods7on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
